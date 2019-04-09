@@ -1,1 +1,0 @@
-python gitcheat.py 2019-01-01 2019-01-30;
